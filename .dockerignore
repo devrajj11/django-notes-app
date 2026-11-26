@@ -1,0 +1,25 @@
+# MySQL database files
+data/
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Git files
+.git/
+.gitignore
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Static files
+staticfiles/
+
+# Node dependencies
+node_modules/
